@@ -14,3 +14,6 @@ This is a basic example for learning purposes.
 
 ```bash
 pip install -r requirements.txt
+
+Run the bot:
+python bot.py
